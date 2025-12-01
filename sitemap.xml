@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Página principal (es) -->
+  <url>
+    <loc>https://www.refycon.com/</loc>
+    <lastmod>2025-11-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.refycon.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.refycon.com/index-en.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.refycon.com/index-fr.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.refycon.com/index-de.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.refycon.com/index-it.html" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.refycon.com/index-nl.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.refycon.com/index-ru.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.refycon.com/" />
+    <image:image>
+      <image:loc>https://www.refycon.com/refyconheader.png</image:loc>
+      <image:title>Refycon - Constructora Premium</image:title>
+      <image:caption>Marca Refycon, especialistas en Steel Framing y reformas premium</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Versión EN -->
+  <url>
+    <loc>https://www.refycon.com/index-en.html</loc>
+    <lastmod>2025-11-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.refycon.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.refycon.com/index-en.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.refycon.com/index-fr.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.refycon.com/index-de.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.refycon.com/index-it.html" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.refycon.com/index-nl.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.refycon.com/index-ru.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.refycon.com/" />
+    <image:image>
+      <image:loc>https://www.refycon.com/crane-on-construction-blue-sky-600nw-2644659717.jpg</image:loc>
+      <image:title>Premium construction Costa del Sol</image:title>
+      <image:caption>Proyecto de construcción Refycon con grúa en la Costa del Sol</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Versión FR -->
+  <url>
+    <loc>https://www.refycon.com/index-fr.html</loc>
+    <lastmod>2025-11-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.refycon.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.refycon.com/index-en.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.refycon.com/index-fr.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.refycon.com/index-de.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.refycon.com/index-it.html" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.refycon.com/index-nl.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.refycon.com/index-ru.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.refycon.com/" />
+    <image:image>
+      <image:loc>https://www.refycon.com/pexels-steffen-coonan-1005786-2098624.jpg</image:loc>
+      <image:title>Équipe Refycon</image:title>
+      <image:caption>Ingénieurs Refycon trabajando en proyectos premium</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Versión DE -->
+  <url>
+    <loc>https://www.refycon.com/index-de.html</loc>
+    <lastmod>2025-11-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.refycon.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.refycon.com/index-en.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.refycon.com/index-fr.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.refycon.com/index-de.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.refycon.com/index-it.html" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.refycon.com/index-nl.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.refycon.com/index-ru.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.refycon.com/" />
+    <image:image>
+      <image:loc>https://www.refycon.com/proyectovilla.jpeg</image:loc>
+      <image:title>Villa Refycon</image:title>
+      <image:caption>Villa moderna construida con estándares premium</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Versión IT -->
+  <url>
+    <loc>https://www.refycon.com/index-it.html</loc>
+    <lastmod>2025-11-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.refycon.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.refycon.com/index-en.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.refycon.com/index-fr.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.refycon.com/index-de.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.refycon.com/index-it.html" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.refycon.com/index-nl.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.refycon.com/index-ru.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.refycon.com/" />
+    <image:image>
+      <image:loc>https://www.refycon.com/proyectopiscina.jpeg</image:loc>
+      <image:title>Piscina Refycon</image:title>
+      <image:caption>Proyecto de piscina residencial con acabados de lujo</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Versión NL -->
+  <url>
+    <loc>https://www.refycon.com/index-nl.html</loc>
+    <lastmod>2025-11-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.refycon.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.refycon.com/index-en.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.refycon.com/index-fr.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.refycon.com/index-de.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.refycon.com/index-it.html" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.refycon.com/index-nl.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.refycon.com/index-ru.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.refycon.com/" />
+    <image:image>
+      <image:loc>https://www.refycon.com/reformainterior.jpeg</image:loc>
+      <image:title>Reforma interior Refycon</image:title>
+      <image:caption>Reforma integral con diseño contemporáneo</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Versión RU -->
+  <url>
+    <loc>https://www.refycon.com/index-ru.html</loc>
+    <lastmod>2025-11-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.refycon.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.refycon.com/index-en.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.refycon.com/index-fr.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.refycon.com/index-de.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.refycon.com/index-it.html" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.refycon.com/index-nl.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.refycon.com/index-ru.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.refycon.com/" />
+    <image:image>
+      <image:loc>https://www.refycon.com/manitas-sitio-construccion-proceso-perforacion-pared-perforador_169016-12114.jpg</image:loc>
+      <image:title>Equipo Refycon en obra</image:title>
+      <image:caption>Servicio de urgencias y mantenimiento 24/7</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Páginas de Servicios -->
+  <url>
+    <loc>https://www.refycon.com/servicios/steel-framing.html</loc>
+    <lastmod>2025-11-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.refycon.com/servicios/reformas.html</loc>
+    <lastmod>2025-11-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.refycon.com/servicios/urgencias.html</loc>
+    <lastmod>2025-11-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Páginas de Zonas -->
+  <url>
+    <loc>https://www.refycon.com/zonas/marbella.html</loc>
+    <lastmod>2025-11-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.refycon.com/zonas/malaga.html</loc>
+    <lastmod>2025-11-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.refycon.com/zonas/estepona.html</loc>
+    <lastmod>2025-11-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.refycon.com/zonas/manilva.html</loc>
+    <lastmod>2025-11-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Páginas legales -->
+  <url>
+    <loc>https://www.refycon.com/privacidad.html</loc>
+    <lastmod>2025-11-30</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+</urlset>

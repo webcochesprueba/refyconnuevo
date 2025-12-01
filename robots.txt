@@ -1,0 +1,20 @@
+User-agent: *
+Allow: /
+
+# Blocked areas that should never be indexed
+Disallow: /admin/
+Disallow: /private/
+Disallow: /temp/
+
+# Dedicated rules for aggressive crawlers
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+# XML sitemap index for all language versions
+Sitemap: https://www.refycon.com/sitemap.xml
