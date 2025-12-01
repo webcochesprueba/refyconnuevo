@@ -1,0 +1,24 @@
+// app/sitemap.ts
+
+export default async function sitemap() {
+  const base = "https://refycon.com";
+
+  return [
+    {
+      url: `${base}`,
+      lastModified: new Date(),
+    },
+    {
+      url: `${base}/servicios`,
+      lastModified: new Date(),
+    },
+    {
+      url: `${base}/contacto`,
+      lastModified: new Date(),
+    },
+    {
+      url: `${base}/proyectos`,
+      lastModified: new Date(),
+    }
+  ];
+}

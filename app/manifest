@@ -1,0 +1,29 @@
+{
+  "name": "Refycon – Construcción y Reformas en la Costa del Sol",
+  "short_name": "Refycon",
+  "description": "Empresa de reformas integrales, construcción y obra nueva en la Costa del Sol. Servicios profesionales en Málaga, Marbella, Estepona y alrededores.",
+  "lang": "es",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#0A3D62",
+  "background_color": "#FFFFFF",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}

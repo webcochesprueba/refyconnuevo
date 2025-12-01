@@ -1,0 +1,44 @@
+// app/layout.tsx
+import "./globals.css";
+
+export const metadata = {
+  metadataBase: new URL("https://refycon.com"),
+  title: {
+    default: "Refycon – Construcción y Reformas en la Costa del Sol",
+    template: "%s | Refycon",
+  },
+  description:
+    "Refycon es una empresa especializada en reformas integrales, obra nueva y construcción en la Costa del Sol. Servicios profesionales en Málaga, Marbella, Estepona y alrededores.",
+  alternates: {
+    canonical: "https://refycon.com",
+  },
+  openGraph: {
+    type: "website",
+    locale: "es_ES",
+    url: "https://refycon.com",
+    title: "Refycon – Expertos en Construcciones y Reformas en la Costa del Sol",
+    description:
+      "Empresa líder en reformas y construcción en Málaga y Costa del Sol. Reformas integrales, obra nueva y mantenimiento.",
+    siteName: "Refycon",
+    images: [
+      {
+        url: "https://refycon.com/og-image.png",
+        width: 1200,
+        height: 630,
+        alt: "Refycon construcción y reformas en Costa del Sol",
+      },
+    ],
+  },
+  robots: {
+    index: true,
+    follow: true,
+  },
+};
+
+export default function RootLayout({ children }: { children: ReactNode }) {
+  return (
+    <html lang="es">
+      <body>{children}</body>
+    </html>
+  );
+}

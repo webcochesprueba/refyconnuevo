@@ -1,0 +1,65 @@
+// app/page.tsx
+
+export const metadata = {
+  title: "Reformas y Construcción en la Costa del Sol – Refycon",
+  description:
+    "Servicios profesionales de reformas integrales, obra nueva y rehabilitación en la Costa del Sol. Empresa de construcción en Málaga, Marbella, Estepona y alrededores.",
+  alternates: {
+    canonical: "https://refycon.com",
+  },
+};
+
+export default function HomePage() {
+  return (
+    <main>
+      <h1>Empresa de Construcción y Reformas en la Costa del Sol</h1>
+
+      <p>
+        En <strong>Refycon</strong> somos especialistas en reformas integrales,
+        obra nueva y rehabilitación de viviendas y locales en toda la{" "}
+        <strong>Costa del Sol</strong>. Trabajamos en Málaga, Marbella,
+        Estepona, Fuengirola, Benalmádena y alrededores, ofreciendo un servicio
+        profesional, transparente y de alta calidad.
+      </p>
+
+      <p>
+        Nuestro equipo cuenta con más de 15 años de experiencia en el sector de
+        la construcción, lo que nos permite ejecutar proyectos con garantía,
+        eficiencia y acabados premium.
+      </p>
+
+      {/* JSON-LD para SEO local (LocalBusiness) */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "LocalBusiness",
+            name: "Refycon",
+            image: "https://refycon.com/og-image.png",
+            url: "https://refycon.com",
+            telephone: "+34 613446457", // añade tu teléfono real
+            address: {
+              "@type": "PostalAddress",
+              addressLocality: "Málaga",
+              addressRegion: "Andalucía",
+              addressCountry: "España",
+            },
+            areaServed: [
+              "Costa del Sol",
+              "Málaga",
+              "Marbella",
+              "Estepona",
+              "Benalmádena",
+              "Fuengirola",
+              "Torremolinos",
+            ],
+            priceRange: "€€€",
+            description:
+              "Empresa especializada en reformas integrales, obra nueva y construcción en la Costa del Sol.",
+          }),
+        }}
+      />
+    </main>
+  );
+}
