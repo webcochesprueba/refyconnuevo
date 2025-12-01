@@ -1,0 +1,10 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [{ "type": "host", "value": "www.refycon.com" }],
+      "destination": "https://refycon.com/$1",
+      "permanent": true
+    }
+  ]
+}
