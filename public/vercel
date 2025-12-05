@@ -3,8 +3,9 @@
     {
       "source": "/(.*)",
       "has": [{ "type": "host", "value": "www.refycon.com" }],
-      "destination": "https://refycon.com/$1",
+      "destination": "https://refycon.com/",
       "permanent": true
     }
   ]
 }
+
